@@ -1,1 +1,1 @@
-Parallax effect project HTML|CSS|JS(for effect only)
+Parallax effect project HTML |CSS | JS(for effect only)
